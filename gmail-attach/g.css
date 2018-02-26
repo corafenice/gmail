@@ -1,0 +1,14 @@
+
+.buttons {
+  text-align:left;
+  background-color: pink;
+  margin: center;
+  padding: 10px;
+}
+.cointainer{
+  background-color: lightblue;
+}
+.info {
+  margin: 20px;
+  display: table-row;
+}
